@@ -1,4 +1,4 @@
-<img align="right" src="./skills/computador.jpg"  height="400" width="500" /> 
+<img align="right" src="./skills/computador.jpg"  height="350" width="450" /> 
 
 ### Hi there 👋
 
